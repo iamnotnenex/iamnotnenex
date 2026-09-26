@@ -1,7 +1,7 @@
 <p align="center"><img src="./assets/iamnene-kitty.svg" alt="iamnene.dmg — terminal profile card" width="100%" /></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=FFD1E8&background=74365300&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nene+~;Currently+learning+IT+%F0%9F%92%BB;Powered+by+coffee+%E2%98%95+%26+curiosity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=FFD1E8&background=74365300&center=true&vCenter=true&width=435&lines=Currently+learning+IT+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <br>
