@@ -14,6 +14,21 @@
 
 ---
 
+<h3 align="center">Tech Stack &amp; Tools</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-743653?style=for-the-badge&amp;logo=html5&amp;logoColor=FFD1E8" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-743653?style=for-the-badge&amp;logo=css&amp;logoColor=FFD1E8" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-743653?style=for-the-badge&amp;logo=javascript&amp;logoColor=FFD1E8" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-743653?style=for-the-badge&amp;logo=python&amp;logoColor=FFD1E8" alt="Python" /><br/>
+<img src="https://img.shields.io/badge/Git-743653?style=for-the-badge&amp;logo=git&amp;logoColor=FFD1E8" alt="Git" />
+<img src="https://img.shields.io/badge/VS%20Code-743653?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=FFD1E8" alt="VS Code" />
+<img src="https://img.shields.io/badge/Claude-743653?style=for-the-badge&amp;logo=claude&amp;logoColor=FFD1E8" alt="Claude" />
+</p>
+
+<br>
+
+---
+
 <h3 align="center">Contribution Activity</h3>
 <p align="center">
 <picture>
