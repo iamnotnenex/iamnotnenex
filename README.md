@@ -16,7 +16,13 @@
 
 <h3 align="center">Tech Stack &amp; Tools</h3>
 <p align="center">
-<img src="https://stats.pphat.top/icons?name=html,css,js,python,git,claude,java,c,sql,react&effect=wave&columns=6" alt="HTML, CSS, JavaScript, Python, Git, Claude, Java, C, SQL, React" />
+<img src="https://stats.pphat.top/icons?name=html,css,js,python,git,claude&effect=wave&columns=6" alt="HTML, CSS, JavaScript, Python, Git, Claude" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
 ---
