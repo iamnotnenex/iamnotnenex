@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/kitty-card.svg" alt="iamnene.dmg — terminal profile card" width="100%" /></p>
+<p align="center"><img src="./assets/iamnene-kitty.svg" alt="iamnene.dmg — terminal profile card" width="100%" /></p>
 
 <br>
 
@@ -20,7 +20,6 @@
 </p>
 <p align="center">
 <img src="https://stats.pphat.top/icons?name=git&amp;effect=wave" alt="Git" width="64" />
-<img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" alt="VS Code" width="48" />
 <img src="https://stats.pphat.top/icons?name=claude&amp;effect=wave" alt="Claude" width="64" />
 </p>
 
