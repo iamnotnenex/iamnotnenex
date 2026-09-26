@@ -16,7 +16,7 @@
 
 <h3 align="center">Tech Stack &amp; Tools</h3>
 <p align="center">
-<img src="https://stats.pphat.top/icons?name=html,css,js,python,git,claude&amp;effect=wave&amp;columns=6" alt="HTML, CSS, JavaScript, Python, Git, Claude" />
+<img src="https://stats.pphat.top/icons?name=html,css,js,python,git,claude,java,c,sql,react&effect=wave&columns=6" alt="HTML, CSS, JavaScript, Python, Git, Claude, Java, C, SQL, React" />
 </p>
 
 ---
@@ -29,4 +29,4 @@
 <img src="https://raw.githubusercontent.com/iamnotnenex/iamnotnenex/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="100%" />
 </picture>
 </p>
-<p align="center"><sub>♡ Thanks for stopping by. ♡</sub></p>
+<p align="center"><sub>♡ NTMY ♡</sub></p>
