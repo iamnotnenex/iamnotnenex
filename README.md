@@ -16,7 +16,7 @@
 
 <h3 align="center">Tech Stack &amp; Tools</h3>
 <p align="center">
-<img src="https://stats.pphat.top/icons?name=html,css,js,python,git,claude,java,c,mysql,react&effect=wave&columns=6" alt="HTML, CSS, JavaScript, Python, Git, Claude, Java, C, MySQL, React" />
+<img src="https://stats.pphat.top/icons?name=html,css,js,python,git,claude,java,c,mysql,react&effect=wave&columns=10" alt="HTML, CSS, JavaScript, Python, Git, Claude, Java, C, MySQL, React" />
 </p>
 
 ---
