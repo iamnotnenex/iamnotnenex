@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/profile.svg?v=kitty-1" alt="iamnene.dmg — terminal profile card" width="100%" /></p>
+<p align="center"><img src="./assets/kitty-profile.svg" alt="iamnene.dmg — terminal profile card" width="100%" /></p>
 
 <br>
 
